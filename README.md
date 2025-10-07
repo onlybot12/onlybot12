@@ -1,11 +1,9 @@
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=Irfan%20Hariyanto&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/78160909?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a&v=4&backgroundColor=%23ecf0f1&instagram=lanaa.14_&github=onlybot12&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=Maulana%20Khaidid&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/78160909?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a&v=4&backgroundColor=%23ecf0f1&instagram=lanaa.14_&github=onlybot12&pattern=leaf&colorPattern=%23eaeaea"/>
 
 ## Helloo Guys <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 Hi, I'm Maulana Khaidir, You Can call me as Lanaa.
 <br>
-<h1 align="center">リヤン 〜<br>Riyan here!</h1>
-<img align="center" height="auto" src="https://avatars.githubusercontent.com/u/78160909?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a"/>
 
 ### Spotify Playing 🎧
 
@@ -15,8 +13,8 @@ Hi, I'm Maulana Khaidir, You Can call me as Lanaa.
 ### Stastik
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-![Rtwone's github stats](https://github-readme-stats.vercel.app/api?username=rtwone&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtwone&show_icons=true&layout=compact&theme=radical)
+![Rtwone's github stats](https://github-readme-stats.vercel.app/api?username=onlybot12&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlybot12&show_icons=true&layout=compact&theme=radical)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
@@ -30,9 +28,5 @@ const riyan = () => {
   }
 }
 ```
-### Github Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=rtwone&repo=chitandabot&show_owner=true&theme=radical)](https://github.com/rtwone/chitandabot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=rtwone&repo=openai-botwa&show_owner=true&theme=radical)](https://github.com/rtwone/openai-botwa)
 
 Ingin membuat Bot WhatsApp mu sendiri? atau Bot WhatsApp usahamu? seperti Bot Laundry atau Bot Jualan produkmu, kamu bisa hubungi saya di [`wa.me/628988808885](https://wa.me/628988808885)
