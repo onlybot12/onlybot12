@@ -7,11 +7,14 @@ Hi, I'm Maulana Khaidir, You Can call me as Lanaa.
 [<img src="https://spotify-rtwone.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31peidtjmv4itssgg5awhg24mxoe?si=yvKmz8vFQY2YQZOz5PEbPg&utm_source=copy-link)
 </br>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31peidtjmv4itssgg5awhg24mxoe)
 
-### Stastik
+### 📊 GitHub Stats
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-![Rtwone's github stats](https://github-readme-stats.vercel.app/api?username=onlybot12&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlybot12&show_icons=true&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=SatzzDev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SatzzDev&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatzzDev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ### About Me
 ```js
