@@ -10,9 +10,9 @@ Hi, I'm Maulana Khaidir, You Can call me as Lanaa.
 ### 📊 GitHub Stats
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-![](https://github-readme-stats.vercel.app/api?username=SatzzDev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SatzzDev&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatzzDev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=onlybot12&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=onlybot12&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onlybot12&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
