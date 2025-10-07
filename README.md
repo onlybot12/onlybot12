@@ -1,5 +1,3 @@
-
-
 ## Helloo Guys <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 Hi, I'm Maulana Khaidir, You Can call me as Lanaa.
 <br>
@@ -15,17 +13,13 @@ Hi, I'm Maulana Khaidir, You Can call me as Lanaa.
 ![Rtwone's github stats](https://github-readme-stats.vercel.app/api?username=onlybot12&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlybot12&show_icons=true&layout=compact&theme=radical)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
-
 ### About Me
 ```js
-const riyan = () => {
+const lana = () => {
   return {
     pronouns: "He" | "Him",
-    country: "Indonesia",
-    bio: "Only god can judge me."
+    country: "Indonesia, Tangsel",
+    bio: "Just admiring silently"
   }
 }
 ```
-
-Ingin membuat Bot WhatsApp mu sendiri? atau Bot WhatsApp usahamu? seperti Bot Laundry atau Bot Jualan produkmu, kamu bisa hubungi saya di [`wa.me/628988808885](https://wa.me/628988808885)
